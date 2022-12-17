@@ -55,7 +55,7 @@ Open your browser and visit <http://localhost:3000>, your project should be runn
 
 ![Preview of Setup Wizard showing the initial page of a setup form](nextjs-setup-wizard.png)
 
-Through the [setup wizard](https://nextjs-wizard.netlify.app/), you can create your blog in a few clicks and deploy to Netlify.
+Through the [Naruto senki](https://techpanga.com/naruto-senki-mod-game/), you can create your blog in a few clicks and deploy to Netlify.
 
 ## Configuring the blog
 
@@ -98,9 +98,9 @@ https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-9
 
 We’ve included some tooling that helps us maintain these templates. This template currently uses:
 
-- [Renovate](https://www.mend.io/free-developer-tools/renovate/) - to regularly update our dependencies
-- [Cypress](https://www.cypress.io/) - to run tests against how the template runs in the browser
-- [Cypress Netlify Build Plugin](https://github.com/cypress-io/netlify-plugin-cypress) - to run our tests during our build process
+- [how to connext Starz](https://techpanga.com/connect-starz/) - to regularly update our dependencies
+- [Free chegg](https://techpanga.com/free-chegg-answer/) - to run tests against how the template runs in the browser
+- [download youtube mp3](https://earngurus.com/how-to-download-youtube-playlist-and-convert-to-mp3-2022/) - to run our tests during our build process
 
 If your team is not interested in this tooling, you can remove them with ease!
 
